@@ -3,8 +3,8 @@
 #include <stdio.h>
 /**
  * main -The last digit
- *
- * Return- Always 0 (Success)
+ * number stored in the variable n
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -24,7 +24,7 @@ int main(void)
 	}
 	else
 	{
-		printf("Last digit of %d is %d and is  0\n", n, l);
+		printf("Last digit of %d is %d and is 0\n", n, l);
 	}
 	return (0);
 }
